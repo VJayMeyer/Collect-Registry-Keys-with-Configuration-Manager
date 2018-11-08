@@ -1,0 +1,11 @@
+#pragma deleteclass ("Registry Values",NOFAIL)
+[ SMS_Report     (TRUE),
+  SMS_Group_Name ("Registry Values"),
+  SMS_Class_ID   ("Registry Values") ]
+class CM_RegistryValues : SMS_Class_Template
+{
+    [SMS_Report (TRUE), key ] string KeyPath;
+    [SMS_Report (TRUE)      ] string Value;
+    [SMS_Report (TRUE)      ] string DataType;
+    [SMS_Report (TRUE)      ] string Name;
+};
