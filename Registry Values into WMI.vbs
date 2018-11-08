@@ -347,8 +347,8 @@ Sub MAINTAIN_WMI_CLASS()
 	wbemCimtypeString = 	8 
 	wbemCimtypeBoolean = 	11 
 	wbemCimtypeObject = 	13 
-	wbemCimtypeSint8 = 		16 
-	wbemCimtypeUint8 = 		17 
+	wbemCimtypeSint8 = 	16 
+	wbemCimtypeUint8 = 	17 
 	wbemCimtypeUint16 = 	18 
 	wbemCimtypeUint32 = 	19 
 	wbemCimtypeSint64 = 	20 
