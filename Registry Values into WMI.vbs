@@ -3,10 +3,10 @@
 '
 ' Version:	2.0
 '
-' Revision: Original Release - Victor Meyer (victor.meyer@salt.ky) (05/01/2015)
-'			Updated Release - (victor.meyer@salt.ky) (26/01/2015)
+' Revision: 	Original Release - Victor Meyer (victor.meyer@salt.ky) (05/01/2015)
+'		Updated Release - (victor.meyer@salt.ky) (26/01/2015)
 '
-' Versions: See https://github.com/VJayMeyer/Collect-Registry-Keys-with-Configuration-Manager
+' Versions: 	See https://github.com/VJayMeyer/Collect-Registry-Keys-with-Configuration-Manager
 '
 ' Purpose: 	This script will loop through the comma seperated list of registry
 '			paths and store the values within the CM_RegistryValues WMI Class
