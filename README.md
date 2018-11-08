@@ -1,3 +1,5 @@
+.SYNOPSIS
+
 # A repeatable mechanism for populating Configuration Manager with custom registry keys
 
 Here are some of the immediate and obvious benefits:
