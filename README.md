@@ -8,3 +8,4 @@ Here are some of the immediate and obvious benefits:
 
 - Allow different custom registry key inventory collections to different groups of devices and on different collection schedules.
 
+See the WIKI for deployment steps.
